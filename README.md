@@ -1,0 +1,2 @@
+# TypingChallenge
+## This application gets a random sentence in improper Latin (Lorem ipsum). The user is tasked with typing that sentence. If the user types a correct character, the retrieved sentence charcter will turn green. If the user types an incorrect character, the retrieved sentence character will turn red. Once the sentence is typed correctly, the user will see "Success!". It's a fun little applicaion, but also practical as the user can improve thier typing skills.
