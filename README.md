@@ -1,2 +1,0 @@
-# TypingChallenge
-## This application pulls in a random sentence in improper Latin (Lorem Ipsum) from Faker, and the user is tasked with typing in the sentence. For each correct character the user types, the retrieved sentence character will turn green. For each incorrect character, the character in the retrieved sentence will turn red. Once the sentence is typed in correctly, the user will see "Success!" at the bottom. The user will have to refresh the page for a new random sentence. It's a fun little application, and practical for practicing your typing skills.
